@@ -1,0 +1,16 @@
+html body{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.hidden{
+    display: none;
+}
+.block{
+    display: block;
+}
+img{
+    width: 300px;
+
+}
